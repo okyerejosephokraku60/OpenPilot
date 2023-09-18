@@ -1,6 +1,7 @@
 # OpenPilot
 How to Activate OpenPilot in Termux
 
+![alt-text](/257243688-f1081737-8718-4241-a22a-3ceba526361a.jpg)
 
 What is OpenPilot?
 
